@@ -1,6 +1,6 @@
 // 1.
-// [] adicionar a tag <script> no html
-// [] verificar se está lendo index.js
+// [x] adicionar a tag <script> no html
+// [x] verificar se está lendo index.js
 // [] alterar cor de <body>
 // [] escutar o clique do botão
 // [] criar função de alterar a cor usando rgb()
@@ -21,3 +21,4 @@
 // [] usar spread
 // [] callback
 // [] promise
+

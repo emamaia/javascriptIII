@@ -19,7 +19,8 @@ botao.addEventListener('click', ()=>{
     const r = geraInteiro();
     const g = geraInteiro();
     const b = geraInteiro();
-    body.style.backgroundColor = 'rgb(' + r + ',' + g + ',' + b + ')';
+    body.style.backgroundColor = `rgb(${r},${g},${b})`
+    // 'rgb(' + r + ',' + g + ',' + b + ')';
 });
 
 
@@ -31,4 +32,4 @@ botao.addEventListener('click', ()=>{
 // [x] remover repetição de código
 // [x] anonymous function
 // [x] arrow function
-// [] template string
+// [x] template string
